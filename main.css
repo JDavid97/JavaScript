@@ -40,7 +40,7 @@ h1 {
 }
 
 .todo .checkbox-container {
-    width: calc(100% 306px);
+    width: calc(100% - 36px);
 }
 
 .todo button {
